@@ -30,3 +30,5 @@ let mypromice = new Promise(function(myresolve,myreject)
 setTimeout(function() { myFunction("I love You !!!"); }, 3000);
 });
 mypromice.then(function(value));
+let b = 20;
+
